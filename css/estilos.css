@@ -1,0 +1,22 @@
+body
+{
+    text-align: center;
+    font-family: arial;
+    color: blueviolet;
+}
+#header
+{
+    color: rgb(255, 136, 0);
+}
+
+#container
+{
+    color: rgb(180, 23, 75);
+    border: 1px solid;
+    text-align: center;
+}
+
+#footeer
+{
+    color: aquamarine;
+}
